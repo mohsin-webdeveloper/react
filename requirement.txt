@@ -3,3 +3,5 @@ upper case
 lower case
 clear text
 add dark mode
+crud
+form
